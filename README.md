@@ -9,7 +9,7 @@ Recoding our own little bash
 
 ### Main features
 - Minishell runs executables from an absolute, relative or environment PATH (/bin/ls or ls), including arguments or options.
-- A few of the functions are "built-in", meaning we don't call the executable, we re-coded them directly. It's the case for echo, pwd, cd, env, export, unset and exit.
+- A few of the functions are "built-in", meaning we don't call the executable. It's the case for echo, pwd, cd, env, export, unset and exit.
 - You can separate commands with ;
 - ' and " work the same as bash, except for multiline commands.
 - Redirections > >> < and pipes | work the same as bash  except for file descriptor aggregation.
