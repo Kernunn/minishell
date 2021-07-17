@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   check_error_syntax.h                               :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: gmorros <gmorros@student.21-school.ru>     +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/12/01 19:16:45 by gmorros           #+#    #+#             */
-/*   Updated: 2020/12/01 19:17:15 by gmorros          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #	ifndef MINISHELL_DEBUG_CHECK_ERROR_SYNTAX_H
 #	define MINISHELL_DEBUG_CHECK_ERROR_SYNTAX_H
 

@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   split_command_into_arguments.c                     :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: gmorros <gmorros@student.21-school.ru>     +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/11/27 19:56:43 by gmorros           #+#    #+#             */
-/*   Updated: 2020/12/12 17:56:05 by gmorros          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "libft.h"
 #include "t_command.h"
 #include "split_command_into_arguments_extra.h"
