@@ -3,6 +3,6 @@
 
 #include "t_token.h"
 
-void	parameter_expansion(t_token *token);
+void parameter_expansion(t_token *token);
 
 #	endif

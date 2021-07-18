@@ -3,6 +3,6 @@
 
 #include <struct_bonus.h>
 
-void	insert_char(t_buf *buf, char ch);
+void insert_char(t_buf *buf, char ch);
 
 #	endif

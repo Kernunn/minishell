@@ -3,7 +3,7 @@
 
 #include "struct_bonus.h"
 
-void	delete(t_buf *buf);
-void	backspace(t_buf *buf);
+void delete(t_buf *buf);
+void backspace(t_buf *buf);
 
 #	endif

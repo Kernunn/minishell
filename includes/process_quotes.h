@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-t_list	*process_quotes(char *str);
+t_list *process_quotes(char *str);
 
 #	endif

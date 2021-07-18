@@ -3,7 +3,7 @@
 
 #include "t_command.h"
 
-void	executing_built_in(t_command *command, int k, int count);
-int		is_built_in(char *command);
+void executing_built_in(t_command *command, int k, int count);
+int is_built_in(char *command);
 
 #	endif

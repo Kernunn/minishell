@@ -3,6 +3,6 @@
 
 #include "t_command.h"
 
-void	executing_external(t_simple_command *simple_command);
+void executing_external(t_simple_command *simple_command);
 
 #	endif

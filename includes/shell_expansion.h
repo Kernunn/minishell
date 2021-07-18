@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-void	shell_expansion(t_list *command);
+void shell_expansion(t_list *command);
 
 #	endif

@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-void	wildcard_expansion(t_list *command);
+void wildcard_expansion(t_list *command);
 
 #	endif

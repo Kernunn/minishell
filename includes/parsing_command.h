@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-t_list	**parsing_command(void);
+t_list **parsing_command(void);
 
 #	endif

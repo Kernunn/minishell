@@ -3,6 +3,6 @@
 
 #include "t_command.h"
 
-void	run(t_command *command);
+void run(t_command *command);
 
 #	endif

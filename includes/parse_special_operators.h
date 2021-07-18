@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-void	parse_special_operators(t_list **commands);
+void parse_special_operators(t_list **commands);
 
 #	endif

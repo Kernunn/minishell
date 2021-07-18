@@ -3,7 +3,7 @@
 
 #include "t_command.h"
 
-void	check_ambiguous_redirection(char *str);
-int		check_type(t_simple_command *simple_command, int i);
+void check_ambiguous_redirection(char *str);
+int check_type(t_simple_command *simple_command, int i);
 
 #	endif

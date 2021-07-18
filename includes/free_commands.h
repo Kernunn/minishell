@@ -3,6 +3,6 @@
 
 #include "libft.h"
 
-void	free_commands(t_list **commands);
+void free_commands(t_list **commands);
 
 #	endif
